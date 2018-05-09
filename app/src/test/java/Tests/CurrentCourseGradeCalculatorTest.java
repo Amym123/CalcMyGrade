@@ -94,4 +94,6 @@ public class CurrentCourseGradeCalculatorTest {
         Double[] result2 = calculator.calculate(pairsB);
         assertEquals(90.0, result2[2], 0);
     }
+
+    //TODO: add case when input is over 100%
 }
