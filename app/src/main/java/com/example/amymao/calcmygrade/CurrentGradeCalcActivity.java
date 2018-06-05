@@ -84,8 +84,7 @@ public class CurrentGradeCalcActivity extends FragmentActivity {
     }
 
 
-
-
+    //
     public void calculateGrade(View view) {
 
         fragment.calculateGrades();
